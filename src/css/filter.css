@@ -1,0 +1,77 @@
+.filter {
+	display: flex;
+	width: 272px;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 40px;
+	justify-content: 'center';
+}
+.filter-text {
+	border-radius: 4px;
+	background: #f3f2f1;
+	color: #414141;
+	font-family: Rubik, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%;
+}
+.text {
+	color: #414141;
+	font-family: Rubik, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%;
+}
+
+.logo-text {
+	width: 272px;
+	height: 44px;
+	padding: 10px;
+}
+.number-row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.row-end {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 13px;
+}
+.number-field {
+	height: 40px;
+	padding: 8px 16px;
+	align-items: flex-start;
+	gap: 10px;
+	display: flex;
+	flex-direction: column;
+	border-radius: 4px;
+	border: 1px solid #bfbfbf;
+	background: #fff;
+	width: 124px;
+}
+.input-field {
+	color: var(--main-on-surface, #414141);
+	display: flex;
+	align-items: center;
+	height: 24px;
+	font-family: Rubik, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+}
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.dash {
+	width: 24px;
+	height: 24px;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.5 12C4.5 11.7239 4.72386 11.5 5 11.5H19C19.2761 11.5 19.5 11.7239 19.5 12C19.5 12.2761 19.2761 12.5 19 12.5H5C4.72386 12.5 4.5 12.2761 4.5 12Z' fill='%23414141'/%3E%3C/svg%3E");
+}

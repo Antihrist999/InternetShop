@@ -1,0 +1,36 @@
+.card {
+	display: flex;
+	width: 272px;
+	height: 200px;
+	margin: 'auto';
+	flex-direction: column;
+	position: relative;
+}
+.fat-card {
+	display: flex;
+	width: 584px;
+	height: 200px;
+	margin: 'auto';
+	flex-direction: column;
+	position: relative;
+}
+.text-card {
+	font-family: Rubik;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%;
+	color: #fff;
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+}
+
+.text {
+	color: #414141;
+	font-family: Rubik;
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%;
+}

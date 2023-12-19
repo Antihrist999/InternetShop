@@ -1,0 +1,361 @@
+{
+  "ratings": [
+    {
+      "id": "124d7a4",
+      "productId": "65247a15a3aeb5f3645c2544",
+      "totalVote": 30,
+      "rating": 3.5
+    },
+    {
+      "id": "124d7a5",
+      "productId": "65247a1553f98048592a9bb9",
+      "totalVote": 70,
+      "rating": 4
+    },
+    {
+      "id": "124d7a3",
+      "productId": "65247a15e5a5575ee9a88500",
+      "totalVote": 78,
+      "rating": 3.948717948717949
+    },
+    {
+      "id": "124d7a2",
+      "productId": "65247a159c497446f99943a3",
+      "totalVote": 6,
+      "rating": 3.8333333333333335
+    },
+    {
+      "id": "124d7a1",
+      "productId": "65247a152d5f06ab61beae9f",
+      "totalVote": 3,
+      "rating": 3.3333333333333335
+    },
+    {
+      "id": "124d7a",
+      "productId": "65247a15f4e80a38d31b6d0e",
+      "totalVote": 1,
+      "rating": 4
+    },
+    {
+      "id": "124dsa",
+      "productId": "65247a15c42649f6fcd32e11",
+      "totalVote": 2,
+      "rating": 2
+    }
+  ],
+  "products": [
+    {
+      "image": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO/Mn/m8R+h6rYSUb3ekokRY6f/YukArN979jcW+V/S8g0eT/N3VN3kTqWbQ428m9/8k0P/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4/MNCFwg59oWVeYhkzgN/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW/n+uMPFiRwHB2I7ih8ciHFxIkd/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3/zMDz8usXC3ddaHBj1GHj/As08fwTS7Kt1HBTmyN29vdwAw+/wbwLVOJ3uAD1wi/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO/Mn/m8R+h6rYSUb3ekokRY6f/YukArN979jcW+V/S8g0eT/N3VN3kTqWbQ428m9/8k0P/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4/MNCFwg59oWVeYhkzgN/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW/n+uMPFiRwHB2I7ih8ciHFxIkd/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3/zMDz8usXC3ddaHBj1GHj/As08fwTS7Kt1HBTmyN29vdwAw+/wbwLVOJ3uAD1wi/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=",
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO/Mn/m8R+h6rYSUb3ekokRY6f/YukArN979jcW+V/S8g0eT/N3VN3kTqWbQ428m9/8k0P/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4/MNCFwg59oWVeYhkzgN/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW/n+uMPFiRwHB2I7ih8ciHFxIkd/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3/zMDz8usXC3ddaHBj1GHj/As08fwTS7Kt1HBTmyN29vdwAw+/wbwLVOJ3uAD1wi/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII="
+      ],
+      "mainImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAApgAAAKYB3X3/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANCSURBVEiJtZZPbBtFFMZ/M7ubXdtdb1xSFyeilBapySVU8h8OoFaooFSqiihIVIpQBKci6KEg9Q6H9kovIHoCIVQJJCKE1ENFjnAgcaSGC6rEnxBwA04Tx43t2FnvDAfjkNibxgHxnWb2e/u992bee7tCa00YFsffekFY+nUzFtjW0LrvjRXrCDIAaPLlW0nHL0SsZtVoaF98mLrx3pdhOqLtYPHChahZcYYO7KvPFxvRl5XPp1sN3adWiD1ZAqD6XYK1b/dvE5IWryTt2udLFedwc1+9kLp+vbbpoDh+6TklxBeAi9TL0taeWpdmZzQDry0AcO+jQ12RyohqqoYoo8RDwJrU+qXkjWtfi8Xxt58BdQuwQs9qC/afLwCw8tnQbqYAPsgxE1S6F3EAIXux2oQFKm0ihMsOF71dHYx+f3NND68ghCu1YIoePPQN1pGRABkJ6Bus96CutRZMydTl+TvuiRW1m3n0eDl0vRPcEysqdXn+jsQPsrHMquGeXEaY4Yk4wxWcY5V/9scqOMOVUFthatyTy8QyqwZ+kDURKoMWxNKr2EeqVKcTNOajqKoBgOE28U4tdQl5p5bwCw7BWquaZSzAPlwjlithJtp3pTImSqQRrb2Z8PHGigD4RZuNX6JYj6wj7O4TFLbCO/Mn/m8R+h6rYSUb3ekokRY6f/YukArN979jcW+V/S8g0eT/N3VN3kTqWbQ428m9/8k0P/1aIhF36PccEl6EhOcAUCrXKZXXWS3XKd2vc/TRBG9O5ELC17MmWubD2nKhUKZa26Ba2+D3P+4/MNCFwg59oWVeYhkzgN/JDR8deKBoD7Y+ljEjGZ0sosXVTvbc6RHirr2reNy1OXd6pJsQ+gqjk8VWFYmHrwBzW/n+uMPFiRwHB2I7ih8ciHFxIkd/3Omk5tCDV1t+2nNu5sxxpDFNx+huNhVT3/zMDz8usXC3ddaHBj1GHj/As08fwTS7Kt1HBTmyN29vdwAw+/wbwLVOJ3uAD1wi/dUH7Qei66PfyuRj4Ik9is+hglfbkbfR3cnZm7chlUWLdwmprtCohX4HUtlOcQjLYCu+fzGJH2QRKvP3UNz8bWk1qMxjGTOMThZ3kvgLI5AzFfo379UAAAAASUVORK5CYII=",
+      "name": "Page",
+      "category": "Milk",
+      "articul": "арт. 371431",
+      "price": {
+        "productId": "65247a1553f98048592a9bb9",
+        "price": 3334,
+        "discount": 78
+      },
+      "brend": "ПРОСТОКВАШИНО",
+      "made": "Россия",
+      "mass": "180",
+      "id": "65247a1553f98048592a9bb9"
+    },
+    {
+      "image": "",
+      "name": "Farrell",
+      "category": "Milk",
+      "price": {
+        "productId": "65247a15a3aeb5f3645c2544",
+        "price": 8868,
+        "discount": 37
+      },
+      "id": "65247a15a3aeb5f3645c2544"
+    },
+    {
+      "id": "65247a15e5a5575ee9a88500",
+      "image": "",
+      "name": "Holloway",
+      "category": "FastFood",
+      "price": {
+        "productId": 2,
+        "price": 5128,
+        "discount": 17
+      }
+    },
+    {
+      "id": "65247a159c497446f99943a3",
+      "image": "",
+      "name": "Wolf",
+      "category": "FastFood",
+      "price": {
+        "productId": "65247a159c497446f99943a3",
+        "price": 1144
+      }
+    },
+    {
+      "id": "65247a152d5f06ab61beae9f",
+      "image": "",
+      "name": "Barton",
+      "category": "FastFood",
+      "price": {
+        "productId": "65247a152d5f06ab61beae9f",
+        "price": 5901,
+        "discount": 20
+      }
+    },
+    {
+      "id": "65247a15f4e80a38d31b6d0e",
+      "image": "",
+      "category": "Vegetables",
+      "name": "Diaz",
+      "price": {
+        "productId": "65247a15f4e80a38d31b6d0e",
+        "price": 7583,
+        "discount": 38
+      }
+    },
+    {
+      "id": "65247a15c42649f6fcd32e11",
+      "image": "",
+      "category": "Vegetables",
+      "name": "Landry",
+      "price": {
+        "productId": "65247a15c42649f6fcd32e11",
+        "price": 4754,
+        "discount": 47
+      }
+    }
+  ],
+  "favorites": [
+    {
+      "id": "65247a152d5",
+      "userId": "65247a15c42649f6fcd32e1",
+      "productId": "65247a152d5f06ab61beae9f",
+      "isFavorite": false
+    },
+    {
+      "id": "65247a15c42649ertf",
+      "userId": "65247a15c42649f6fcd32e1",
+      "productId": "65247a1553f98048592a9bb9",
+      "isFavorite": true
+    },
+    {
+      "id": "65247a15c42649ef",
+      "userId": "65247a15c42649f6fcd32e1",
+      "productId": "65247a159c497446f99943a3",
+      "isFavorite": false
+    },
+    {
+      "productId": "65247a15a3aeb5f3645c2544",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isFavorite": true,
+      "id": "EHrfHNG"
+    },
+    {
+      "productId": "65247a15e5a5575ee9a88500",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isFavorite": false,
+      "id": "efc3Pf0"
+    },
+    {
+      "productId": "65247a15f4e80a38d31b6d0e",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isFavorite": false,
+      "id": "tkmY6_r"
+    },
+    {
+      "productId": "65247a15c42649f6fcd32e11",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isFavorite": false,
+      "id": "Z9S_-Ql"
+    }
+  ],
+  "carts": [
+    {
+      "id": "65247a15c42649f",
+      "userId": "65247a15c42649f6fcd32e1",
+      "productId": "65247a159c497446f99943a3",
+      "isCarts": true,
+      "count": 0,
+      "counter": 1,
+      "isSelected": false
+    },
+    {
+      "id": "65247a15c42649",
+      "userId": "65247a15c42649f6fcd32e1",
+      "productId": "65247a1553f98048592a9bb9",
+      "isCarts": true,
+      "count": 0,
+      "isSelected": false,
+      "counter": 1
+    },
+    {
+      "productId": "65247a15e5a5575ee9a88500",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isCarts": true,
+      "id": "tZj8IQk",
+      "count": 0,
+      "counter": 1
+    },
+    {
+      "productId": "65247a15a3aeb5f3645c2544",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isCarts": true,
+      "id": "9s5vFXf",
+      "count": 0,
+      "counter": 1
+    },
+    {
+      "productId": "65247a152d5f06ab61beae9f",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isCarts": false,
+      "id": "wzPG5Dw",
+      "count": 0
+    },
+    {
+      "productId": "65247a15f4e80a38d31b6d0e",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isCarts": false,
+      "id": "u1TlHOl",
+      "count": 0
+    },
+    {
+      "productId": "65247a15c42649f6fcd32e11",
+      "userId": "65247a15c42649f6fcd32e1",
+      "isCarts": false,
+      "id": "nZk3FwP",
+      "count": 0
+    }
+  ],
+  "rewiews": [
+    {
+      "id": "123",
+      "message": "приятный вкус",
+      "userId": "123124",
+      "userName": "Татьяна",
+      "dateVote": "10/12/2024",
+      "vote": 4,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "1234",
+      "message": "Масло среднее, есть вкуснее",
+      "userId": "123125",
+      "userName": "Мария",
+      "dateVote": "10/14/2024",
+      "vote": 4,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "1235",
+      "message": "Покупали в том числе в этом весе. Масло по вкусу и органолептическим свойствам совершенно не похоже на натуральное. Упаковка выглядит как напечатанная на дешёвом принтере. На наш взгляд продукт является подделкой или контрафактной продукцией. Просим разобраться.",
+      "userId": "123126",
+      "userName": "Алексей",
+      "dateVote": "10/13/2024",
+      "vote": 1,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "12356",
+      "message": "Покупали в том числе в этом весе. Масло по вкусу и органолептическим свойствам совершенно не похоже на натуральное. Упаковка выглядит как напечатанная на дешёвом принтере. На наш взгляд продукт является подделкой или контрафактной продукцией. Просим разобраться.",
+      "userId": "123126",
+      "userName": "Алексей",
+      "dateVote": "10/13/2024",
+      "vote": 1,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "1237",
+      "message": "Покупали в том числе в этом весе. Масло по вкусу и органолептическим свойствам совершенно не похоже на натуральное. Упаковка выглядит как напечатанная на дешёвом принтере. На наш взгляд продукт является подделкой или контрафактной продукцией. Просим разобраться.",
+      "userId": "123126",
+      "userName": "Алексей",
+      "dateVote": "10/13/2024",
+      "vote": 1,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "DOAHMZ7",
+      "message": "",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Анатолий",
+      "dateVote": "Fri Nov 17 2023 02:31:27 GMT+0300 (Москва, стандартное время)",
+      "vote": 0,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "EEgNfPb",
+      "message": "asdasdasddasdasdfa",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Анатолий",
+      "dateVote": "Fri Nov 17 2023 02:31:49 GMT+0300 (Москва, стандартное время)",
+      "vote": 0,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "iT-pBWR",
+      "message": "asd",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Толя",
+      "dateVote": "17/11/2023",
+      "vote": 0,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "RN8i9Pz",
+      "message": "dfgv",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Толя",
+      "dateVote": "17/11/2023",
+      "vote": 0,
+      "productId": "65247a1553f98048592a9bb9"
+    },
+    {
+      "id": "VIG2SDr",
+      "message": "234",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Толя",
+      "dateVote": "17/11/2023",
+      "vote": 3,
+      "productId": "65247a15a3aeb5f3645c2544"
+    },
+    {
+      "id": "s3q_ZKN",
+      "message": "123",
+      "userId": "65247a15c42649f6fcd32e1",
+      "userName": "Толя",
+      "dateVote": "17/11/2023",
+      "vote": 4,
+      "productId": "65247a159c497446f99943a3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "65247a2as15f06ab61beae9f",
+      "name": "Milk"
+    },
+    {
+      "id": "65247a2as15f06ab61be1234",
+      "name": "Vegetables"
+    },
+    {
+      "id": "65247a2as15f06ab61be009h",
+      "name": "FastFood"
+    },
+    {
+      "id": "65247330915f06ab61be009h",
+      "name": "FastFood"
+    },
+    {
+      "id": "65247330915f06ab633d009h",
+      "name": "FastFood"
+    },
+    {
+      "id": "65247330915132ab61be009h",
+      "name": "FastFood"
+    }
+  ]
+}

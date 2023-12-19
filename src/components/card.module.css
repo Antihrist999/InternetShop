@@ -1,0 +1,97 @@
+.card {
+	display: flex;
+	width: 272px;
+	height: 349px;
+	margin: 'auto';
+	flex-direction: column;
+	border-radius: 4px;
+	background-color: white;
+}
+.card:hover {
+	box-shadow: 1px 2px 4px 0px #0000001a;
+}
+.media {
+	position: relative;
+	height: 45%;
+	width: 100%;
+}
+.cardContent {
+	height: 55%;
+}
+.cardActions {
+	height: 25%;
+	width: 100%;
+	padding: 0 !important;
+	margin: 0;
+	justify-content: center;
+}
+
+.priceContainer {
+	display: flex;
+	justify-content: space-between;
+	height: 30%;
+	width: 100%;
+}
+.priceBlock {
+	display: flex;
+	flex-direction: column;
+}
+.desc {
+	height: 30%;
+	font-family: Rubik;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.raiting {
+	height: 10%;
+	padding: 0 0 16px 0;
+}
+.priceCard {
+	font-family: Rubik;
+	font-size: 18px;
+	line-height: 27px;
+	font-weight: bold;
+}
+.priceNoCard {
+	font-family: Rubik;
+	line-height: 27px;
+	font-size: 16px;
+}
+.labelCard {
+	font-family: Rubik;
+	font-size: 12px;
+	letter-spacing: 0em;
+	color: #bfbfbf;
+}
+.notice {
+	position: absolute;
+	top: 73%;
+	left: 6%;
+	height: 20%;
+	width: 20%;
+	background-color: #ff6633;
+	border-radius: 4px;
+}
+
+.noticeText {
+	height: 100%;
+	width: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Rubik;
+	font-size: 16px;
+	color: #ffffff;
+}
+.favorite {
+	position: absolute;
+	top: 8px;
+	left: 232px;
+	height: 32px;
+	width: 32px;
+	background-color: #f3f2f1;
+	border-radius: 4px;
+}
